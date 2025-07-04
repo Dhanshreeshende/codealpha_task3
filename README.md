@@ -49,7 +49,7 @@ python main.py
 ## 4. Output
 The generated music will be saved as: generated_output.mid
 
-📦 Dependencies
+## 📦 Dependencies
 tensorflow
 kerasmusic21
 numpy
@@ -57,13 +57,13 @@ sklearn
 
 ✅ All dependencies can be installed using the requirements.txt.
 
-📌 Notes
+## 📌 Notes
 The model requires enough note data to train. Use longer or more MIDI files for better results.
 
 
-👩‍💻 Author
+## 👩‍💻 Author
 Developed by Dhanshree Shende
 Internship Project for CodeAlpha – Task 3
 
-📄 License
+## 📄 License
 This project is open-source and available for educational use.
